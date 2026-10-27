@@ -1,5 +1,10 @@
 # 🎃 Encurtador de Links - Balta Halloween 2026
 
+<p align="center">
+  <img src="https://baltaio.blob.core.windows.net/static/images/v4/challenges/halloween-2026/01.png" width="160" />
+  <img src="https://baltaio.blob.core.windows.net/static/images/v4/challenges/halloween-2026/02.png" width="160" />
+</p>
+
 Projeto desenvolvido durante o desafio **Halloween 2026** realizado pelo [balta.io](https://balta.io), utilizando **Spec-Driven Development (SDD)** de ponta a ponta.
 
 ---
@@ -79,3 +84,4 @@ Para executar toda a suíte de testes unitários e de integração (padrão AAA)
 ### 3. Consultar Estatísticas Públicas
 - **GET** `/api/links/{code}/stats`
 - Retorna `200 OK` com dados do link e total de acessos.
+

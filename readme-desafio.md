@@ -1,6 +1,6 @@
 <img width="100%" alt="Halloween 2026" src="https://baltaio.blob.core.windows.net/static/images/v4/challenges/halloween-2026/banner.jpg" />
 
-## 🎃 Halloween - Desafio 1
+## 🎃 Halloween - Desafio 1 e 2
 
 Oi, eu sou a Keran e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Halloween 2026**, realizado pelo [balta.io](https://balta.io). 👻
 
@@ -18,6 +18,7 @@ Neste processo eu aprendi:
 
 ## Bagde
 <img src="https://baltaio.blob.core.windows.net/static/images/v4/challenges/halloween-2026/01.png" width="200" />
+<img src="https://baltaio.blob.core.windows.net/static/images/v4/challenges/halloween-2026/02.png" width="200" />
 
 ## Problema
 --
