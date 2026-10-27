@@ -347,5 +347,5 @@ git push -u origin main
 Abra a URL abaixo substituindo a variável pelo seu nome de usuário:
 
 ```markdown
-https://github.com/{NOME DO SEU USUARIO}/balta-desafio-halloween-2026-spec-driven-01
+https://github.com/keranbarbieri88/balta-desafio-halloween-2026-spec-driven-01
 ```
