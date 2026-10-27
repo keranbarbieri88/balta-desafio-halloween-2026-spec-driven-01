@@ -33,7 +33,7 @@ Este é um App lúdico, apenas para aprendizado dos conceitos sobre SDD. Não h�
 
 Você pode realizar este desafio com qualquer Stack que desejar, porém, recomendamos as seguintes:
 
-### Stack
+### Stack - a escolher
 
 - .NET 10, C#, Minimal API
 - Persistência em SQLite com EF Core
